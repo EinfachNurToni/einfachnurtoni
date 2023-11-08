@@ -2,7 +2,10 @@
 
 This page is still w.i.p. at the moment!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=einfachnurtoni&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EinfachNurToni&theme=github-compact">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=einfachnurtoni&theme=dark&hide_border=true">
+</p>
 
 <!--
 **EinfachNurToni/einfachnurtoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
