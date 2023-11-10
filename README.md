@@ -3,8 +3,8 @@
 This page is still w.i.p. at the moment!
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EinfachNurToni&theme=github-compact">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=einfachnurtoni&theme=dark&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EinfachNurToni&theme=github-compact&line=ffa500&area_color=ffa500&area=true&custom_title=Contribution%20Graph">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EinfachNurToni&theme=rising-sun&hide_border=true&mode=weekly">
 </p>
 
 <!--
