@@ -2,11 +2,20 @@
   𝗘𝗶𝗻𝗳𝗮𝗰𝗵𝗡𝘂𝗿𝗧𝗼𝗻𝗶 
 </h1>
 <p align="center">
-  Welcome to my GitHub page. 👋
+Welcome to my GitHub page. 👋
 </p>
+
+<h3 align="center">
+<p>Currently working on a steam game.</p> 
+<a href="https://store.steampowered.com/app/2519700?utm_source=github_profile">Wishlist now! 📝</a>
+</h3>
+
+</br>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EinfachNurToni&theme=github-compact&line=ffa500&area_color=ffa500&area=true&custom_title=Contribution%20Graph">
+</br>
+</br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=EinfachNurToni&theme=rising-sun&hide_border=true&mode=weekly">
 </p>
 
