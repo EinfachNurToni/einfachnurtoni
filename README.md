@@ -1,5 +1,9 @@
-### Hi there 👋
-This page is still w.i.p. at the moment!
+<h1 align="center"> 
+  𝗘𝗶𝗻𝗳𝗮𝗰𝗵𝗡𝘂𝗿𝗧𝗼𝗻𝗶 
+</h1>
+<p align="center">
+  Welcome to my GitHub page. 👋
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EinfachNurToni&theme=github-compact&line=ffa500&area_color=ffa500&area=true&custom_title=Contribution%20Graph">
