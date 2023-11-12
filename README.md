@@ -1,4 +1,4 @@
-<h1 style="color:#ffffff;" align="center"> 
+<h1 href="#" style="color:#ffffff;" align="center"> 
   𝗘𝗶𝗻𝗳𝗮𝗰𝗵𝗡𝘂𝗿𝗧𝗼𝗻𝗶 
 </h1>
 <p style="color:#ffffff;" align="center">
