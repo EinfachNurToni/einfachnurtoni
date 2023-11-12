@@ -1,12 +1,12 @@
-<h1 href="#" style="color:#ffffff;" align="center"> 
+<h1 align="center"> 
   𝗘𝗶𝗻𝗳𝗮𝗰𝗵𝗡𝘂𝗿𝗧𝗼𝗻𝗶 
 </h1>
-<p style="color:#ffffff;" align="center">
+<p align="center">
 Welcome to my GitHub page. 👋
 </p>
 
 <h3 align="center">
-<p style="color:#ffffff;">Currently working on a steam game.</p> 
+<p>Currently working on a steam game.</p> 
 <a href="https://store.steampowered.com/app/2519700?utm_source=github_profile">Wishlist now! 📝</a>
 </h3>
 
